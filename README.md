@@ -1,4 +1,4 @@
-## Zillow Zestimate® Improvement (Kaggle Competition)
+## Zillow Zestimate® Improvement
 
 ### Overview
 Imagine being able to determine the value of your home without outside help, and in only a few clicks. That's what Zestimate® does: it provides users with an independent, unbiased starting point for determining a home’s worth based on data from over 100 million other homes on and off the market. Through Kaggle— the world's largest platform for predictive analytics competitions— Zillow challenged the global data science community to improve the accuracy of the tool. I joined the contest as a solo participant, motivated by using data science/digital engineering to solve a real world problem.
