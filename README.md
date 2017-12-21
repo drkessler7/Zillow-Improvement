@@ -10,9 +10,10 @@ The earliest Zestimates from 2006 had error rates of roughly 14%, were calculate
 [Coming soon]
 
 ### Timeline/Scoring
-The competition includes 2 rounds: Round 1 (a qualifying round) and Round 2 (the final round). Round 1 began in May 2017, with submissions for that round accepted until mid-October. At the Round 1/October 2017 deadline, teams contributed final updates to predictive models and scoring commenced. No updates were accepted past that deadline. Teams that finish in the top 100 will continue on to Round 2 in January 2018. From there, competitors will have the opportunity to enhance pre-existing models accordingly.
+The competition includes 2 rounds: Round 1 (a qualifying round) and Round 2 (the final round). Round 1 began in May 2017, with submissions for that round accepted until mid-October. At the Round 1/October 2017 deadline, teams contributed final updates to predictive models, the leaderboard locked, and scoring commenced. Teams that finish in the top 100 will continue on to Round 2 in January 2018. From there, competitors will have the opportunity to enhance pre-existing models accordingly.
 
-There are two leaderboards: 1 public and 1 private. To uphold the integrity of the competition, the public leaderboard is scored on a different set of data than that of the private leaderboard. There are also 3 updates during Round 1 scoring: One in November, December and January. During scoring, Kaggle may swap the leaderboard display between the public and private versions. This, and a variety of other factors (such as team disqualification), may temporarily alter the publicly displayed rankings and participating number of teams.
+There are two leaderboards: 1 public and 1 private. To uphold the integrity of the competition, the public leaderboard is scored on a different set of data than that of the private leaderboard. Kaggle may also temporarily swap the leaderboard display between the public and private versions. This, and a variety of other factors (such as team disqualification), may temporarily alter the publicly displayed rankings and participating number of teams.
+
 
 ### Results and Code Availability
 Competition scoring is currently ongoing, with 3,700+ teams (initially 3,800+) competing for $1.2 million in prizes. Due to the nature of the project, code and strategy cannot be publicly released at this time. In the meantime, I'm glad to discuss project details, data and tools used, and aspects of my process and approach. I'm presently in the top 0.6%.
