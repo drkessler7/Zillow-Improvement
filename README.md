@@ -12,7 +12,7 @@ The earliest Zestimates from 2006 had error rates of roughly 14%, were calculate
 ### Timeline/Scoring
 The competition includes 2 rounds: Round 1 (a qualifying round) and Round 2 (the final round). Round 1 began in May 2017, with submissions for that round accepted until mid-October. At the Round 1/October 2017 deadline, teams contributed final updates to predictive models, the leaderboard locked, and scoring commenced. Teams that finish in the top 100 will continue on to Round 2 in January 2018. From there, competitors will have the opportunity to enhance pre-existing models accordingly.
 
-There are two leaderboards: 1 public and 1 private. To uphold the integrity of the competition, the public leaderboard is scored on a different set of data than that of the private leaderboard. Kaggle may also temporarily swap the leaderboard display between the public and private versions. This, and a variety of other factors (such as team disqualification), may temporarily alter the publicly displayed rankings and participating number of teams.
+There are two leaderboards: 1 public and 1 private. To uphold the integrity of the competition, the public leaderboard is scored on a different set of data than that of the private leaderboard. Kaggle may also temporarily swap the leaderboard display between the public and private versions. This, and a variety of other factors (such as team disqualification), may temporarily alter the accuracy of the publicly displayed rankings.
 
 
 ### Results and Code Availability
